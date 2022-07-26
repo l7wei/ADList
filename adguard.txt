@@ -1,0 +1,8 @@
+#Line Today
+||a.line.me^
+#Dcard
+||xlate.dcard.tw^
+||dad-api.dcard.tw^
+#Google Analytic
+@@||www.google-analytics.com^$important
+@@||www.googletagmanager.com^$important
